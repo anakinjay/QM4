@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/QM4/static/css/main.80f7173a.chunk.css",
+    "main.js": "/QM4/static/js/main.4ba72136.chunk.js",
+    "main.js.map": "/QM4/static/js/main.4ba72136.chunk.js.map",
+    "runtime-main.js": "/QM4/static/js/runtime-main.c9eac7b5.js",
+    "runtime-main.js.map": "/QM4/static/js/runtime-main.c9eac7b5.js.map",
+    "static/css/2.286c9144.chunk.css": "/QM4/static/css/2.286c9144.chunk.css",
+    "static/js/2.837bdcb0.chunk.js": "/QM4/static/js/2.837bdcb0.chunk.js",
+    "static/js/2.837bdcb0.chunk.js.map": "/QM4/static/js/2.837bdcb0.chunk.js.map",
+    "index.html": "/QM4/index.html",
+    "precache-manifest.dc0f1dc0c9bd5a15e1ac5ff29a7b4632.js": "/QM4/precache-manifest.dc0f1dc0c9bd5a15e1ac5ff29a7b4632.js",
+    "service-worker.js": "/QM4/service-worker.js",
+    "static/css/2.286c9144.chunk.css.map": "/QM4/static/css/2.286c9144.chunk.css.map",
+    "static/css/main.80f7173a.chunk.css.map": "/QM4/static/css/main.80f7173a.chunk.css.map",
+    "static/js/2.837bdcb0.chunk.js.LICENSE.txt": "/QM4/static/js/2.837bdcb0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9eac7b5.js",
+    "static/css/2.286c9144.chunk.css",
+    "static/js/2.837bdcb0.chunk.js",
+    "static/css/main.80f7173a.chunk.css",
+    "static/js/main.4ba72136.chunk.js"
+  ]
+}
